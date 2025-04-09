@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-03-09T18:58:14Z" areas="2024-03-09T14:08:26Z"/>
+
+  <node id="242411" lat="48.7008113" lon="9.1811244" version="9" timestamp="2018-07-09T07:50:07Z" changeset="60524546" uid="35560" user="Peilscheibe"/>
+  <node id="242413" lat="48.7026911" lon="9.1775688" version="12" timestamp="2013-10-18T20:02:23Z" changeset="18425185" uid="212207" user="SunCobalt"/>
+  <node id="242414" lat="48.7055123" lon="9.1698705" version="5" timestamp="2020-06-09T16:46:37Z" changeset="86418601" uid="35560" user="Peilscheibe"/>
+  <node id="242416" lat="48.7064773" lon="9.1631798" version="5" timestamp="2018-07-09T07:10:28Z" changeset="60524546" uid="35560" user="Peilscheibe"/>
+  <node id="242417" lat="48.7053384" lon="9.1699157" version="5" timestamp="2018-07-09T07:10:28Z" changeset="60524546" uid="35560" user="Peilscheibe"/>
+  <node id="242418" lat="48.7043044" lon="9.1733814" version="5" timestamp="2018-07-09T07:10:28Z" changeset="60524546" uid="35560" user="Peilscheibe"/>
+  <node id="242419" lat="48.7037343" lon="9.1748677" version="10" timestamp="2018-07-09T07:10:28Z" changeset="60524546" uid="35560" user="Peilscheibe">
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Point"/>
+    <tag k="TMC:cid_58:tabcd_1:Direction" v="positive"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="12528"/>
+    <tag k="TMC:cid_58:tabcd_1:NextLocationCode" v="41422"/>
+    <tag k="TMC:cid_58:tabcd_1:PrevLocationCode" v="12527"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Stuttgart-Flughafen / Messe"/>
+    <tag k="ref" v="53a"/>
+  </node>
+  <node id="242465" lat="48.7267948" lon="9.0690757" version="9" timestamp="2014-11-19T18:06:09Z" changeset="26892039" uid="35560" user="Peilscheibe"/>
+  <node id="242466" lat="48.7264794" lon="9.0681485" version="8" timestamp="2019-10-03T17:27:38Z" changeset="75246218" uid="548288" user="WayneSchlegel"/>
+  <node id="243640" lat="48.7000311" lon="9.1831509" version="3" timestamp="2012-11-28T17:48:08Z" changeset="14076484" uid="701647" user="taza"/>
+  <node id="243641" lat="48.6979979" lon="9.1873847" version="5" timestamp="2014-05-10T15:11:10Z" changeset="22248267" uid="35560" user="Peilscheibe"/>
+  <node id="243642" lat="48.6955182" lon="9.1931151" version="8" timestamp="2021-10-06T15:30:13Z" changeset="112175556" uid="35560" user="Peilscheibe"/>
+  <node id="243643" lat="48.6995279" lon="9.1838286" version="4" timestamp="2014-06-25T15:32:18Z" changeset="23152538" uid="35560" user="Peilscheibe"/>
+  <node id="243644" lat="48.6978281" lon="9.1873967" version="1" timestamp="2005-11-10T07:59:55Z" changeset="672" uid="335" user="topro"/>
+  <node id="243645" lat="48.6953113" lon="9.1932330" version="5" timestamp="2019-02-22T21:40:27Z" changeset="67481503" uid="165061" user="mapper999"/>
+  <node id="243647" lat="48.6942116" lon="9.1975596" version="4" timestamp="2011-02-15T21:19:16Z" changeset="7299134" uid="67020" user="Nibbler"/>
+  <node id="243648" lat="48.6937412" lon="9.1998088" version="17" timestamp="2021-08-28T22:36:20Z" changeset="110395819" uid="1853022" user="Kaniee">
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Point"/>
+    <tag k="TMC:cid_58:tabcd_1:Direction" v="negative"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="12528"/>
+    <tag k="TMC:cid_58:tabcd_1:NextLocationCode" v="41422"/>
+    <tag k="TMC:cid_58:tabcd_1:PrevLocationCode" v="12527"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Stuttgart-Flughafen/Messe"/>
+    <tag k="ref" v="53a"/>
+  </node>
+  <node id="243649" lat="48.6975944" lon="9.1882412" version="7" timestamp="2021-03-05T17:02:42Z" changeset="100505037" uid="603490" user="intschutschuna"/>
+  <node id="243650" lat="48.6930056" lon="9.2133528" version="5" timestamp="2012-11-28T17:30:44Z" changeset="14076268" uid="701647" user="taza"/>
+  <node id="243651" lat="48.6937505" lon="9.1990130" version="8" timestamp="2021-08-09T07:00:06Z" changeset="109382228" uid="1853022" user="Kaniee"/>
+  <node id="243652" lat="48.6931258" lon="9.2031709" version="7" timestamp="2021-08-09T07:00:06Z" changeset="109382228" uid="1853022" user="Kaniee"/>
+  <node id="243653" lat="48.6928112" lon="9.2092271" version="6" timestamp="2021-08-09T07:00:06Z" changeset="109382228" uid="1853022" user="Kaniee"/>
+  <node id="243654" lat="48.6928567" lon="9.2134252" version="4" timestamp="2018-07-09T08:28:20Z" changeset="60524546" uid="35560" user="Peilscheibe"/>
+  <node id="243655" lat="48.6932752" lon="9.2182830" version="9" timestamp="2022-12-25T17:38:41Z" changeset="130489430" uid="603490" user="intschutschuna"/>
+  <node id="243656" lat="48.6939061" lon="9.2240516" version="5" timestamp="2010-12-25T11:10:54Z" changeset="6760009" uid="153109" user="pschaefer"/>
+  <node id="243657" lat="48.6939553" lon="9.2244159" version="14" timestamp="2022-01-05T16:09:59Z" changeset="115803730" uid="603490" user="intschutschuna"/>
+  <node id="243658" lat="48.6964928" lon="9.2385619" version="3" timestamp="2012-11-28T17:13:15Z" changeset="14076007" uid="701647" user="taza"/>
+  <node id="243659" lat="48.6947415" lon="9.2300747" version="7" timestamp="2018-07-09T08:38:49Z" changeset="60524546" uid="35560" user="Peilscheibe"/>
+  <node id="243660" lat="48.6937863" lon="9.2243170" version="5" timestamp="2018-07-09T08:28:20Z" changeset="60524546" uid="35560" user="Peilscheibe"/>
+  <node id="243661" lat="48.6931419" lon="9.2184906" version="7" timestamp="2018-07-09T08:28:20Z" changeset="60524546" uid="35560" user="Peilscheibe"/>
+  <node id="433559" lat="48.7256817" lon="9.0710272" version="8" timestamp="2019-04-16T18:35:24Z" changeset="69282435" uid="165061" user="mapper999"/>
+  <node id="433560" lat="48.7267295" lon="9.0711303" version="6" timestamp="2014-06-26T21:00:55Z" changeset="23202047" uid="109062" user="Jojo4u"/>
+  <node id="433561" lat="48.7269790" lon="9.0709621" version="6" timestamp="2014-06-26T21:00:55Z" changeset="23202047" uid="109062" user="Jojo4u"/>
+  <node id="433562" lat="48.7274076" lon="9.0703953" version="8" timestamp="2019-10-03T17:27:38Z" changeset="75246218" uid="548288" user="WayneSchlegel"/>
+  <node id="433563" lat="48.7277031" lon="9.0687132" version="8" timestamp="2019-10-03T17:27:38Z" changeset="75246218" uid="548288" user="WayneSchlegel"/>
+  <node id="433564" lat="48.7276507" lon="9.0677547" version="10" timestamp="2021-10-06T15:30:13Z" changeset="112175556" uid="35560" user="Peilscheibe"/>
+  <node id="433567" lat="48.7271027" lon="9.0649706" version="7" timestamp="2019-04-16T18:35:24Z" changeset="69282435" uid="165061" user="mapper999">
+    <tag k="traffic_sign:forward" v="signals"/>
+  </node>
+  <node id="433862" lat="48.8210834" lon="9.0888846" version="3" timestamp="2008-06-11T21:59:29Z" changeset="139093" uid="35560" user="Peilscheibe"/>
+  <node id="433863" lat="48.8219204" lon="9.0849965" version="4" timestamp="2013-07-02T19:06:18Z" changeset="16796214" uid="165061" user="mapper999"/>
+  <node id="433908" lat="48.8213325" lon="9.0915729" version="3" timestamp="2011-09-01T14:54:34Z" changeset="9185272" uid="53670" user="Stan4Life"/>
+  <node id="433909" lat="48.8217861" lon="9.0922455" version="6" timestamp="2015-12-02T09:17:40Z" changeset="35701850" uid="3375374" user="ziltoid"/>
+  <node id="433910" lat="48.8224404" lon="9.0927570" version="8" timestamp="2011-03-01T18:33:21Z" changeset="7431300" uid="87588" user="Voitl-Fan"/>
+  <node id="433912" lat="48.8234279" lon="9.0943289" version="1" timestamp="2006-01-19T15:50:33Z" changeset="1855" uid="335" user="topro"/>
+  <node id="433913" lat="48.8252278" lon="9.0941703" version="6" timestamp="2012-07-29T23:09:25Z" changeset="12541878" uid="148776" user="aequator"/>
+  <node id="433914" lat="48.8229418" lon="9.0929511" version="6" timestamp="2008-08-03T11:31:01Z" changeset="43739" uid="44971" user="LayBack"/>
+  <node id="433918" lat="48.8234391" lon="9.0929500" version="6" timestamp="2011-09-01T12:31:14Z" changeset="9184180" uid="53670" user="Stan4Life"/>
+  <node id="433919" lat="48.8234081" lon="9.0929032" version="7" timestamp="2011-09-01T12:31:14Z" changeset="9184180" uid="53670" user="Stan4Life"/>
+  <node id="433920" lat="48.8232977" lon="9.0929043" version="7" timestamp="2011-09-01T12:31:14Z" changeset="9184180" uid="53670" user="Stan4Life"/>
+  <node id="433922" lat="48.8232583" lon="9.0930887" version="6" timestamp="2011-09-01T12:31:14Z" changeset="9184180" uid="53670" user="Stan4Life"/>
+  <node id="433923" lat="48.8233088" lon="9.0931728" version="6" timestamp="2011-09-01T12:31:14Z" changeset="9184180" uid="53670" user="Stan4Life"/>
+  <node id="433924" lat="48.8234118" lon="9.0931607" version="6" timestamp="2011-09-01T12:31:14Z" changeset="9184180" uid="53670" user="Stan4Life"/>
+  <node id="433925" lat="48.8234528" lon="9.0930683" version="6" timestamp="2011-09-01T12:31:14Z" changeset="9184180" uid="53670" user="Stan4Life"/>
+  <node id="433926" lat="48.8233804" lon="9.0935259" version="3" timestamp="2011-09-01T12:31:14Z" changeset="9184180" uid="53670" user="Stan4Life"/>
+  <node id="433928" lat="48.8314640" lon="9.0869589" version="3" timestamp="2020-05-04T13:50:06Z" changeset="84626637" uid="35560" user="Peilscheibe"/>
+  <node id="433929" lat="48.8330946" lon="9.0893772" version="4" timestamp="2020-05-04T13:50:06Z" changeset="84626637" uid="35560" user="Peilscheibe"/>
+  <node id="434247" lat="48.8400334" lon="9.1411107" version="6" timestamp="2012-02-02T12:54:07Z" changeset="10566853" uid="20938" user="Loth"/>
+  <node id="434248" lat="48.8398610" lon="9.1424531" version="7" timestamp="2012-01-13T14:48:46Z" changeset="10379132" uid="53670" user="Stan4Life">
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Point"/>
+    <tag k="TMC:cid_58:tabcd_1:Direction" v="positive"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="30552"/>
+    <tag k="TMC:cid_58:tabcd_1:NextLocationCode" v="20297"/>
+    <tag k="TMC:cid_58:tabcd_1:PrevLocationCode" v="20296"/>
+  </node>
+  <node id="434253" lat="48.8404060" lon="9.1535665" version="8" timestamp="2016-06-12T22:38:01Z" changeset="39980964" uid="109062" user="Jojo4u">
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Point"/>
+    <tag k="TMC:cid_58:tabcd_1:Direction" v="positive"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="20297"/>
+    <tag k="TMC:cid_58:tabcd_1:NextLocationCode" v="30553"/>
+    <tag k="TMC:cid_58:tabcd_1:PrevLocationCode" v="30552"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Stuttgart-Stammheim"/>
+  </node>
+  <node id="434254" lat="48.8403976" lon="9.1565652" version="5" timestamp="2012-02-05T16:36:59Z" changeset="10595323" uid="20938" user="Loth"/>
+  <node id="434255" lat="48.8402112" lon="9.1556584" version="4" timestamp="2011-02-15T17:53:56Z" changeset="7297141" uid="87588" user="Voitl-Fan"/>
+  <node id="434256" lat="48.8401565" lon="9.1562313" version="6" timestamp="2013-03-15T20:38:24Z" changeset="15377652" uid="165061" user="mapper999"/>
+  <node id="434257" lat="48.8398578" lon="9.1567508" version="7" timestamp="2013-03-15T20:38:24Z" changeset="15377652" uid="165061" user="mapper999"/>
+  <node id="434258" lat="48.8392747" lon="9.1570758" version="10" timestamp="2013-09-25T18:10:42Z" changeset="18032482" uid="2675" user="Eckhart Wörner"/>
+  <node id="434260" lat="48.8399340" lon="9.1572080" version="5" timestamp="2013-03-15T20:38:24Z" changeset="15377652" uid="165061" user="mapper999"/>
+  <node id="434261" lat="48.8401502" lon="9.1573759" version="5" timestamp="2013-03-15T20:38:24Z" changeset="15377652" uid="165061" user="mapper999"/>
+  <node id="434262" lat="48.8402851" lon="9.1577028" version="5" timestamp="2013-03-15T20:38:24Z" changeset="15377652" uid="165061" user="mapper999"/>
+  <node id="434263" lat="48.8405768" lon="9.1598147" version="7" timestamp="2017-10-09T17:17:28Z" changeset="52764941" uid="35560" user="Peilscheibe"/>
+  <node id="434264" lat="48.8426483" lon="9.1356820" version="7" timestamp="2018-01-03T09:19:18Z" changeset="55123166" uid="35560" user="Peilscheibe">
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Point"/>
+    <tag k="TMC:cid_58:tabcd_1:Direction" v="negative"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="30552"/>
+    <tag k="TMC:cid_58:tabcd_1:NextLocationCode" v="20297"/>
+    <tag k="TMC:cid_58:tabcd_1:PrevLocationCode" v="20296"/>
+  </node>
+  <node id="434267" lat="48.8403091" lon="9.1404370" version="6" timestamp="2013-03-16T22:39:35Z" changeset="15389869" uid="165061" user="mapper999"/>
+  <node id="434268" lat="48.8399980" lon="9.1421106" version="6" timestamp="2012-01-13T14:48:46Z" changeset="10379132" uid="53670" user="Stan4Life">
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Point"/>
+    <tag k="TMC:cid_58:tabcd_1:Direction" v="negative"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="30552"/>
+    <tag k="TMC:cid_58:tabcd_1:NextLocationCode" v="20297"/>
+    <tag k="TMC:cid_58:tabcd_1:PrevLocationCode" v="20296"/>
+  </node>
+  <node id="434274" lat="48.8405129" lon="9.1567038" version="5" timestamp="2012-02-05T16:41:14Z" changeset="10595323" uid="20938" user="Loth"/>
+  <node id="434277" lat="48.8406124" lon="9.1602252" version="6" timestamp="2017-11-22T19:28:30Z" changeset="54010301" uid="109062" user="Jojo4u"/>
+  <node id="434278" lat="48.8412737" lon="9.1644060" version="6" timestamp="2017-11-22T19:28:30Z" changeset="54010301" uid="109062" user="Jojo4u">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="loc_name" v="Teiler B 10/B 27"/>
+    <tag k="name" v="Dreieck Stuttgart-Zuffenhausen"/>
+  </node>
+  <node id="434279" lat="48.8415169" lon="9.1664727" version="2" timestamp="2012-01-22T06:46:29Z" changeset="10461982" uid="53670" user="Stan4Life"/>
+  <node id="434280" lat="48.8416539" lon="9.1691451" version="4" timestamp="2012-01-22T06:46:29Z" changeset="10461982" uid="53670" user="Stan4Life"/>
+  <node id="434281" lat="48.8413854" lon="9.1716267" version="6" timestamp="2022-06-18T17:28:44Z" changeset="122554889" uid="134881" user="Laci"/>
+  <node id="434282" lat="48.8411124" lon="9.1727151" version="4" timestamp="2022-06-18T17:28:44Z" changeset="122554889" uid="134881" user="Laci"/>
+  <node id="434283" lat="48.8409081" lon="9.1737531" version="6" timestamp="2022-06-18T17:28:44Z" changeset="122554889" uid="134881" user="Laci"/>
+  <node id="434284" lat="48.8409918" lon="9.1749063" version="6" timestamp="2022-06-18T17:28:44Z" changeset="122554889" uid="134881" user="Laci"/>
+  <node id="434285" lat="48.8416004" lon="9.1760456" version="4" timestamp="2017-10-10T07:23:59Z" changeset="52781497" uid="35560" user="Peilscheibe"/>
+  <node id="434286" lat="48.8423344" lon="9.1767849" version="5" timestamp="2017-11-22T19:28:30Z" changeset="54010301" uid="109062" user="Jojo4u"/>
+  <node id="434287" lat="48.8442915" lon="9.1789967" version="13" timestamp="2022-06-18T17:28:44Z" changeset="122554889" uid="134881" user="Laci">
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Point"/>
+    <tag k="TMC:cid_58:tabcd_1:Direction" v="positive"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="30618"/>
+    <tag k="TMC:cid_58:tabcd_1:NextLocationCode" v="22373"/>
+    <tag k="TMC:cid_58:tabcd_1:PrevLocationCode" v="22372"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Stuttgart-Zuffenhausen-Nord"/>
+  </node>
+ 

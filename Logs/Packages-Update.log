@@ -1,0 +1,24 @@
+
+=== Mon May 13 18:41:51 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ai.navigation@1.1.1
+The following packages were updated:
+  com.unity.ide.rider from version 3.0.15 to 3.0.16
+  com.unity.test-framework from version 1.1.31 to 1.1.33
+  com.unity.timeline from version 1.7.1 to 1.7.2
+
+=== Thu May 16 10:35:29 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ai.navigation@1.1.1
+The following packages were updated:
+  com.unity.ide.rider from version 3.0.15 to 3.0.16
+  com.unity.test-framework from version 1.1.31 to 1.1.33
+  com.unity.timeline from version 1.7.1 to 1.7.2
