@@ -6,3 +6,6 @@ Um die Bounding Box zu verändern, muss man die gewünschten "_currentLat" und "
 
 WICHTIG: Die Unity version mit der es ohne Probleme funktioniert - 2021.3.31f1 
 
+
+FLUTTER PROJEKT FÜR UI IDEEN: https://github.com/Ramajana05/FlutterBaseProjectTraveler
+
